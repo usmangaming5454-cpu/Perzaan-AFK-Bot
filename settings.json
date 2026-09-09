@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "spideyy20s.aternos.me:52688",
+    "port": 52688,
+    "version": "26.2 (121)"
   },
   "position": {
     "enabled": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
