@@ -1,14 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "spidy",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "spideyy20s.aternos.me",
-    "port": 52688
-,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "",
-        " "
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
